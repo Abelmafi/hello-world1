@@ -42,6 +42,9 @@ include_once 'profile.php';
 <?php
 include_once 'playerstable.php';
 ?>
+  <div>
+    <img src="img_hello_world.jpg" alt="hello world from space" style="width:100%;">
+  </div>
     <nav id="pagination">
     </nav>
     <input type="hidden" name="currentpage" id="currentpage" value="1">
