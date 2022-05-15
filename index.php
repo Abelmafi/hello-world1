@@ -45,6 +45,8 @@ include_once 'playerstable.php';
   <div>
     <img src="img_hello_world.jpg" alt="hello world from space" style="width:100%;">
   </div>
+  <p>A new line in our file!</p>
+<div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
     <nav id="pagination">
     </nav>
     <input type="hidden" name="currentpage" id="currentpage" value="1">
