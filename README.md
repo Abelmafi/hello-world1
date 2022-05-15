@@ -8,7 +8,8 @@ PHP MySQL CRUD Application using jQuery Ajax and Bootstrap
 - Rename your project directory to "phpcrudajax"
 
   Create Database:
--hello world
+- hello world
+- hi there
 - create database name "playersdb"
 - create table using given below sql statement
 
